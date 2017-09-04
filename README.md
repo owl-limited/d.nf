@@ -1,2 +1,3 @@
-# d.nf
-https://d.nf/
+# D.NF is short for Domain Name Foundation
+
+Domain Name Foundation from Owl Limited (Vanuatu)
